@@ -1,0 +1,6 @@
+{
+    "baseUrl":"https://www.tvmaze.com/",
+    "ignoreTestFiles": "**/examples/**/*",
+    "viewportHeight":768,
+    "viewportWidth": 1024
+}
